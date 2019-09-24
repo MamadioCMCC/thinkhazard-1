@@ -16,7 +16,7 @@ import geopandas as gpd
 from datetime import datetime
 
 # set working directory
-wd = "X:/Work/WB/Thinkhazard/Geodata/admin/Basemap_processing/"
+wd = "C:/Basemap_processing/"
 
 os.chdir(wd)
 
